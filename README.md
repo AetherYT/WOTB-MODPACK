@@ -4,3 +4,23 @@
 * Available only for 1 platform
  - Valve Steam (soon)
  - Google Android
+
+
+# What is modified?
+
+## Removed mods
+
+WOT PC battle music
+
+Garage mod
+
+WOT PC gun sounds and other SFX (sfx might be added back)
+
+
+## Added mods
+
+Extended tech tree
+
+WOTB legacy gun sounds
+
+
